@@ -1,0 +1,18 @@
+{
+  "SECRET": "Z_vtuf_flvby!",
+  "appleCredentials": {
+    "APPLE_AUTH_KEY_ID": "MQ8NZHGA5J",
+    "TEAM_IDENTIFIER": "BS7W3CZWM5",
+    "PASS_TYPE_IDENTIFIER": "pass.ru.crm4retail.lk",
+    "SIGNER_KEY_PASSPHRASE": "Z vtuf flvby!"
+  },
+  "style": {
+    "organizationName": "Fashionlogica",
+    "logoText": "Fashionlogica",
+    "description": "Fashionlogica",
+    "notificationPlaceholder": "Здесь будут уведомления",
+    "foregroundColor": "rgb(255,255,255)",
+    "labelColor": "rgb(255,255,255)",
+    "backgroundColor": "rgb(9,70,127)"
+  }
+}
