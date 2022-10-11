@@ -1,0 +1,18 @@
+{
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@parse/node-apn": "^4.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.2.10",
+    "passkit-generator": "^2.0.6",
+    "sqlite3": "^5.0.2",
+    "uuid": "^9.0.0"
+  }
+}

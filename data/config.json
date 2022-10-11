@@ -1,0 +1,10 @@
+{
+    "SECRET": "Z_vtuf_flvby!",
+    "appleCredentials": {
+      "APPLE_AUTH_KEY_ID": "MQ8NZHGA5J",
+      "TEAM_IDENTIFIER": "BS7W3CZWM5",
+      "PASS_TYPE_IDENTIFIER": "pass.ru.crm4retail.lk",
+      "SIGNER_KEY_PASSPHRASE": "Z vtuf flvby!"
+    },
+    "PORT": 5000
+}
